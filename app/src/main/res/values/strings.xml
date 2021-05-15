@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FindRoots</string>
+    <string name="roots_print">%1$d = %2$d * %3$d</string>
+    <string name="abort_print">calculation aborted after %1$d seconds</string>
+    <string name="result">Result</string>
+    <string name="calculation_time">Calculation Time</string>
 </resources>
